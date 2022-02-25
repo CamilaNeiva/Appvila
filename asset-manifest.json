@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/appvila/static/js/main.8a898fc4.chunk.js",
+    "main.js.map": "/appvila/static/js/main.8a898fc4.chunk.js.map",
+    "runtime-main.js": "/appvila/static/js/runtime-main.9e226138.js",
+    "runtime-main.js.map": "/appvila/static/js/runtime-main.9e226138.js.map",
+    "static/js/2.7adbd36c.chunk.js": "/appvila/static/js/2.7adbd36c.chunk.js",
+    "static/js/2.7adbd36c.chunk.js.map": "/appvila/static/js/2.7adbd36c.chunk.js.map",
+    "index.html": "/appvila/index.html",
+    "static/js/2.7adbd36c.chunk.js.LICENSE.txt": "/appvila/static/js/2.7adbd36c.chunk.js.LICENSE.txt",
+    "static/media/logo.b8d4b455.svg": "/appvila/static/media/logo.b8d4b455.svg",
+    "static/media/phone.ffd52d29.png": "/appvila/static/media/phone.ffd52d29.png",
+    "static/media/white-logo.38738d5f.svg": "/appvila/static/media/white-logo.38738d5f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e226138.js",
+    "static/js/2.7adbd36c.chunk.js",
+    "static/js/main.8a898fc4.chunk.js"
+  ]
+}
