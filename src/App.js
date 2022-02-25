@@ -7,6 +7,7 @@ import { Achievement } from './components/Achievement'
 import { Pricing } from './components/Pricing'
 import { CallAction } from './components/CallAction'
 import { Footer } from './components/Footer'
+import { NavigateToTop } from './components/NavigateToTop'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Pricing />
       <CallAction />
       <Footer />
+      <NavigateToTop />
     </ThemeProvider>
   )
 }
