@@ -6,6 +6,7 @@ import { Recursos } from './components/Recursos'
 import { Achievement } from './components/Achievement'
 import { Pricing } from './components/Pricing'
 import { CallAction } from './components/CallAction'
+import { Footer } from './components/Footer'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Achievement />
       <Pricing />
       <CallAction />
+      <Footer />
     </ThemeProvider>
   )
 }
