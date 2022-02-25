@@ -4,6 +4,7 @@ import { Intro } from './components/Intro'
 import { Menu } from './components/Menu'
 import { Recursos } from './components/Recursos'
 import { Achievement } from './components/Achievement'
+import { Pricing } from './components/Pricing'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Intro />
       <Recursos />
       <Achievement />
+      <Pricing />
     </ThemeProvider>
   )
 }
